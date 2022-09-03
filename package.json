@@ -1,0 +1,14 @@
+{
+	"name": "vtuResults2ExcelTool",
+	"author": "Rohan Nayak",
+	"version": "0.0.0",
+	"main": "main.js",
+	"dependencies": {
+		"@electron/remote": "^2.0.8",
+		"electron": "^20.1.0",
+		"xlsx": "https://cdn.sheetjs.com/xlsx-latest/xlsx-latest.tgz"
+	},
+	"scripts": {
+		"start": "electron ."
+	}
+}
